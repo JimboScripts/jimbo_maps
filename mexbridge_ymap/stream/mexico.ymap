@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-6264.970215" y="-4413.800049" z="-431.600000"/>
+	<streamingExtentsMax x="-5451.399902" y="-3475.800049" z="370.400000"/>
+	<entitiesExtentsMin x="-5864.970215" y="-4013.800049" z="-31.600000"/>
+	<entitiesExtentsMax x="-5851.399902" y="-3875.800049" z="-29.600000"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_van_rope_bridge</archetypeName>
+			<flags value="1572897"/>
+			<position x="-5860.080078" y="-3977.000000" z="-30.000000"/>
+			<rotation w="0.736847" x="0.000000" y="-0.000000" z="-0.676060"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_van_rope_bridge</archetypeName>
+			<flags value="1572897"/>
+			<position x="-5854.279785" y="-3909.500000" z="-30.000000"/>
+			<rotation w="0.736847" x="0.000000" y="-0.000000" z="-0.676060"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_clt_post01b</archetypeName>
+			<flags value="1572897"/>
+			<position x="-5862.399902" y="-4013.800049" z="-31.600000"/>
+			<rotation w="0.201522" x="-0.000000" y="0.000000" z="0.979484"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_clt_post01b</archetypeName>
+			<flags value="1572897"/>
+			<position x="-5864.970215" y="-4013.459961" z="-31.600000"/>
+			<rotation w="0.201093" x="-0.001510" y="-0.035940" z="0.978911"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_dis_ropebridge4</archetypeName>
+			<flags value="1572897"/>
+			<position x="-5862.600098" y="-4004.800049" z="-29.600000"/>
+			<rotation w="0.744811" x="0.000000" y="-0.000000" z="-0.667276"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_van_rope_bridge</archetypeName>
+			<flags value="1572897"/>
+			<position x="-5857.200195" y="-3943.199951" z="-29.999901"/>
+			<rotation w="0.736847" x="0.000000" y="-0.000000" z="-0.676060"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_van_rope_bridge</archetypeName>
+			<flags value="1572897"/>
+			<position x="-5851.399902" y="-3875.800049" z="-30.000000"/>
+			<rotation w="0.736847" x="0.000000" y="-0.000000" z="-0.676060"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>
