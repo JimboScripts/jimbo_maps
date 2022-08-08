@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="Ap3x_99@DesperadoRP"/>
+	<DeletedObject Hash="-726426629" Position_x="-3619.7561035156" Position_y="-2606.4597167969" Position_z="-14.242730140686"/>
+	<DeletedObject Hash="-631874917" Position_x="-3620.0395507813" Position_y="-2606.55859375" Position_z="-14.235877037048"/>
+	<Object Hash="1407600554" Position_x="-3625.7268066406" Position_y="-2604.1643066406" Position_z="-14.335041046143" Rotation_x="3.2849779129028" Rotation_y="1.6784226894379" Rotation_z="-56.988471984863" Collision="true" Visible="true"/>
+	<Object Hash="1407600554" Position_x="-3625.9572753906" Position_y="-2603.5893554688" Position_z="-14.332553863525" Rotation_x="3.0015344619751" Rotation_y="-3.2817575931549" Rotation_z="-66.988464355469" Collision="true" Visible="true"/>
+	<Object Hash="-384257010" Position_x="-3624.9995117188" Position_y="-2602.0510253906" Position_z="-14.336747169495" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="35.085021972656" Collision="true" Visible="true"/>
+	<Object Hash="1407600554" Position_x="-3624.4799804688" Position_y="-2606.9787597656" Position_z="-14.327754020691" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-67.988563537598" Collision="true" Visible="true"/>
+	<Object Hash="-965956337" Position_x="-3627.7436523438" Position_y="-2609.2062988281" Position_z="-14.716316223145" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-65.000015258789" Collision="true" Visible="true"/>
+	<Object Hash="84384819" Position_x="-3625.2399902344" Position_y="-2603.0500488281" Position_z="-13.539999961853" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="45.0" Collision="true" Visible="true"/>
+	<Vehicle Hash="-666024656" Position_x="-1513.9527587891" Position_y="-2757.896484375" Position_z="37.970035552979" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="124.17693328857" Collision="true" Visible="true"/>
+	<Object Hash="-348508546" Position_x="-3620.1799316406" Position_y="-2602.6000976563" Position_z="-13.319999694824" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-22.0" Collision="true" Visible="true"/>
+</Map>
