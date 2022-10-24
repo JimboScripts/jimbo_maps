@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="Ap3x_99@DesperadoRP"/>
+	<Object Hash="-1734806822" Position_x="1050.4200439453" Position_y="-1807.1899414063" Position_z="47.599998474121" Rotation_x="0.0" Rotation_y="-33.000003814697" Rotation_z="-4.9999980926514" Collision="true" Visible="true"/>
+	<Object Hash="1355640227" Position_x="1053.2525634766" Position_y="-1809.1038818359" Position_z="48.166522979736" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-87.451240539551" Collision="true" Visible="true"/>
+	<Object Hash="-911764409" Position_x="1051.8477783203" Position_y="-1810.103515625" Position_z="47.467514038086" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-121.66957092285" Collision="true" Visible="true"/>
+	<Object Hash="920592628" Position_x="1052.0186767578" Position_y="-1810.9034423828" Position_z="47.465026855469" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-115.37648010254" Collision="true" Visible="true"/>
+	<Object Hash="-1487798821" Position_x="1051.8328857422" Position_y="-1807.4564208984" Position_z="47.449096679688" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-44.336666107178" Collision="true" Visible="true"/>
+	<Object Hash="-1734806822" Position_x="1050.6700439453" Position_y="-1807.1899414063" Position_z="47.56848526001" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-5.0368576049805" Collision="true" Visible="true"/>
+</Map>

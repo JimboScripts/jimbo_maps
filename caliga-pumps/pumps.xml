@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="Ap3x_99@DesperadoRP"/>
+	<Object Hash="-40350080" Position_x="1720.3991699219" Position_y="-1508.4022216797" Position_z="48.12670135498" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-160.70999145508" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1682.8393554688" Position_y="-1380.2775878906" Position_z="42.764236450195" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-156.80723571777" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1639.1966552734" Position_y="-1396.5855712891" Position_z="45.564937591553" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-155.67153930664" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1851.703125" Position_y="-1467.2358398438" Position_z="42.632434844971" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-156.4859161377" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1680.8161621094" Position_y="-1533.6248779297" Position_z="52.033554077148" Rotation_x="-6.283269405365" Rotation_y="-8.7543668746948" Rotation_z="-159.00886535645" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1703.6887207031" Position_y="-1514.0908203125" Position_z="48.679622650146" Rotation_x="3.7018654346466" Rotation_y="-4.6701250076294" Rotation_z="-160.2688293457" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1663.4102783203" Position_y="-1541.1865234375" Position_z="53.356842041016" Rotation_x="-4.3757891654968" Rotation_y="-1.6768293380737" Rotation_z="-157.8747253418" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1643.8392333984" Position_y="-1549.0240478516" Position_z="54.973472595215" Rotation_x="-0.9257835149765" Rotation_y="-7.3020248413086" Rotation_z="-159.19729614258" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1736.2315673828" Position_y="-1501.9410400391" Position_z="47.132946014404" Rotation_x="-2.1076157093048" Rotation_y="-3.7030503749847" Rotation_z="-156.2380065918" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1820.4577636719" Position_y="-1481.6339111328" Position_z="43.200057983398" Rotation_x="-5.5888452529907" Rotation_y="-0.28181931376457" Rotation_z="-153.21026611328" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1888.0080566406" Position_y="-1355.1514892578" Position_z="41.594871520996" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-19.916292190552" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1767.3176269531" Position_y="-1509.5124511719" Position_z="44.990737915039" Rotation_x="-3.5433986186981" Rotation_y="-3.2583663463592" Rotation_z="-151.19421386719" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1618.3917236328" Position_y="-1404.6900634766" Position_z="48.129901885986" Rotation_x="1.1348099708557" Rotation_y="-7.7234888076782" Rotation_z="-158.00199890137" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1789.8630371094" Position_y="-1497.544921875" Position_z="43.721759796143" Rotation_x="-8.8316192626953" Rotation_y="-0.84085667133331" Rotation_z="-151.13134765625" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1660.6950683594" Position_y="-1388.740234375" Position_z="43.228466033936" Rotation_x="7.0516223907471" Rotation_y="-1.6910403966904" Rotation_z="-156.42866516113" Collision="true" Visible="true"/>
+	<Object Hash="-40350080" Position_x="1876.1871337891" Position_y="-1329.0906982422" Position_z="41.712989807129" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-155.60176086426" Collision="true" Visible="true"/>
+</Map>

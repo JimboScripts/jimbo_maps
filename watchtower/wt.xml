@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="Ap3x99@DesperadoRP"/>
+	<Object Hash="942176598" Position_x="1933.7199707031" Position_y="1943.1400146484" Position_z="269.92001342773" Rotation_x="90.0" Rotation_y="-179.0" Rotation_z="-174.99996948242" Collision="true" Visible="true"/>
+	<Object Hash="942176598" Position_x="1935.8199462891" Position_y="1945.6259765625" Position_z="269.89999389648" Rotation_x="90.0" Rotation_y="180.0" Rotation_z="-85.0" Collision="true" Visible="true"/>
+	<Object Hash="942176598" Position_x="1933.3599853516" Position_y="1947.3900146484" Position_z="269.98001098633" Rotation_x="-90.0" Rotation_y="180.0" Rotation_z="-177.0" Collision="true" Visible="true"/>
+</Map>
